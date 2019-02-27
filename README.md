@@ -10,7 +10,7 @@ npm install
 
 ```
 
-```
+``
 
 ### Start WebDriver Manager (in 1 terminal window)
 
